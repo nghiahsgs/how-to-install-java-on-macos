@@ -14,6 +14,12 @@ https://www.oracle.com/java/technologies/downloads/#jdk19-mac
 ```
 click and install
 
+## Check version
+```
+java --version
+javac --version
+```
+
 ## run the first program in java language
 
 ```
